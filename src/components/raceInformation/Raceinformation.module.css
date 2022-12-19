@@ -1,0 +1,24 @@
+.row {
+    margin-top: 10px;
+    padding: 8px;
+    border-radius: 3px;
+  }
+
+  .raceRow{
+    background-color: #c8b6cd;
+  }
+
+  .raceNumber{
+      flex: 1 1 0;
+      text-align: center;
+  }
+  
+  .raceDate{
+    flex: 2 1 0;
+    text-align: center;
+  }
+  
+  .raceName{
+    flex: 3 1 0;
+    text-align: center;
+  }

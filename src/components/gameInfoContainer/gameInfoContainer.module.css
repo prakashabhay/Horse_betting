@@ -1,0 +1,8 @@
+.raceContainer {
+    display: flex;
+    flex-direction: column;
+}
+.raceInformation {
+    padding: 10px;
+    background: #fff;
+  }
